@@ -98,6 +98,13 @@ The virtual machine is configured using a **Bridged Network Adapter**, enabling 
 ![Windows Browser](Screenshots/Windows%20Browser.png)
 
 
+## 📄 Project Files
+
+### 📘 Project Report (PDF)
+[Click here to view the project report](Report/FINAL%20IT%20FILE.pdf)
+
+### 📊 Project Presentation (PPT)
+[Click here to view the project presentation](Presentation/Your_Presentation_File_Name.pptx)
 
 ## Author
 **Name:** Anush Rayat  
