@@ -97,6 +97,9 @@ The virtual machine is configured using a **Bridged Network Adapter**, enabling 
 ### Access from Windows Browser
 ![Windows Browser](Screenshots/Windows%20Browser.png)
 
+## 📊 Project Presentation
+
+[Click here to view the presentation](Presentation/Project%20Presentation.pptx)
 
 
 ## Author
