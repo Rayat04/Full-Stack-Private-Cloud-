@@ -74,6 +74,30 @@ The virtual machine is configured using a **Bridged Network Adapter**, enabling 
 - `Presentation/` – Project presentation (PPT)
 - `Screenshots/` – Implementation and result screenshots
 
+## 📸 Project Screenshots
+
+### VirtualBox Running
+![VirtualBox Running](Screenshots/Virtual%20Box%20Running.png)
+
+### Rocky Linux IP Address
+![Rocky Linux IP](Screenshots/Rocky%20Linux%20IP%20Address.png)
+
+### Apache Service Running
+![Apache Service](Screenshots/Apache%20Service%20Running.png)
+
+### Nextcloud Setup Page
+![Nextcloud Setup](Screenshots/Nextcloud%20Setup%20Page.png)
+
+### Nextcloud Dashboard
+![Nextcloud Dashboard](Screenshots/Nextcloud%20Dashboard.png)
+
+### File Upload Proof
+![File Upload](Screenshots/File%20Upload%20Proof.png)
+
+### Access from Windows Browser
+![Windows Browser](Screenshots/Windows%20Browser.png)
+
+
 
 ## Author
 **Name:** Anush Rayat  
