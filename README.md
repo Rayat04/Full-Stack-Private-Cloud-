@@ -101,10 +101,11 @@ The virtual machine is configured using a **Bridged Network Adapter**, enabling 
 ## 📄 Project Files
 
 ### 📘 Project Report (PDF)
-[Click here to view the project report](Report/FINAL%20IT%20FILE.pdf)
+[Click here to view the project report](Report/Project%20Report.pdf)
 
 ### 📊 Project Presentation (PPT)
-[Click here to view the project presentation](Presentation/Your_Presentation_File_Name.pptx)
+[Click here to view the project presentation](Presentation/full%20stack%20private%20cloud%20implementationn.pptx)
+
 
 ## Author
 **Name:** Anush Rayat  
