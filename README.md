@@ -100,7 +100,12 @@ The virtual machine is configured using a **Bridged Network Adapter**, enabling 
 ## 📊 Project Presentation
 
 [Click here to view the presentation](Presentation/Project%20Presentation.pptx)
+> Note: If the PPT does not preview in Github, please download to view.
 
+## 📄 Project Report
+
+[Click here to download the project report](Report/Project%20Report.pdf)
+> Note: If the PDF does not preview in GitHub, please download to view.
 
 ## Author
 **Name:** Anush Rayat  
